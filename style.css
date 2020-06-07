@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    background: black;
+}
+
+.container {
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+
+button {
+    cursor: pointer;
+}
